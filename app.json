@@ -1,0 +1,14 @@
+﻿{
+    "name": "xx",
+    "description": "xx",
+    "logo":"xx",
+    "keywords": ["xx"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/lixinay/strxy",
+    "stack": "container"
+}
